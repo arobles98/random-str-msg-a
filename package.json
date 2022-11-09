@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-a",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arobles98/random-str-msg-a.git"
+  },
+  "keywords": [],
+  "author": "Andrea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arobles98/random-str-msg-a/issues"
+  },
+  "homepage": "https://github.com/arobles98/random-str-msg-a#readme",
+  "bin":{
+    "random-str-msg-a": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
